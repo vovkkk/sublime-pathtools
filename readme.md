@@ -5,7 +5,7 @@ This is a mirror of the [pathtools](https://github.com/gorakhargosh/pathtools) m
 
 this repo | pypi
 ---- | ----
-![latest tag](https://img.shields.io/github/tag/vovkkk/pathtools.svg) | [![pypi](https://img.shields.io/pypi/v/pathtools.svg)](https://pypi.python.org/pypi/pathtools)
+![latest tag](https://img.shields.io/github/tag/vovkkk/sublime-pathtools.svg) | [![pypi](https://img.shields.io/pypi/v/pathtools.svg)](https://pypi.python.org/pypi/pathtools)
 
 
 ## How to use
